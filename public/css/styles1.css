@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Sacramento&display=swap');
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #111;
+}
+
+.fab{
+  color: #008ae6;
+}
+.centered {
+    background-color: #111;
+    background-image: url("redSword.png");
+    background-repeat: no-repeat;
+    background-size: 1200px;
+    background-position: center;
+    padding-top: 300px;
+    text-align: center;
+}
+
+.text-h1{
+  color: #008ae6;
+  text-shadow: 2px 2px #FF0000;
+}
+
+.lead{
+  color: #4da6ff;
+  text-shadow: 2px 2px #FF0000;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+/* login page */
+
+.addImage{
+  padding-bottom: 10rem;
+  background-image: url("Monster8.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1000px;
+  text-align: center;
+}
+
+.row{
+  padding-top: 6.2rem;
+  padding-left: 20rem;
+
+}
+
+.card-body{
+  background-color: 	 #ff3333;
+  color: #f6f6f6;
+  text-shadow: 1px 1px #008ae6;
+}
+
+/* register page */
+.addImage1{
+  padding-bottom: 10rem;
+  background-image: url("Wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 1000px;
+  text-align: center;
+}
